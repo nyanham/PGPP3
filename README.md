@@ -1,2 +1,2 @@
-# PGPP3
-Projeto Parcial 3 da matéria Processamento Gráfico
+# ProjetoPG
+Projeto Parcial da matéria Processamento Gráfico
