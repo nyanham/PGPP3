@@ -37,6 +37,7 @@ public class SaturnRing : MonoBehaviour
         ringMesh = ringMF.mesh;
         ringMR = ring.AddComponent<MeshRenderer>();
         ringMR.material = ringMat;  
+        ringMR.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
 
         //construir ringMesh
         Vector3[] vertices = new Vector3[(segments + 1) * 2 * 2]; //multipica se por dois duas vezes pois precisamos considerar tanto o lado de cima quanto de baixo
