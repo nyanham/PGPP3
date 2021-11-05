@@ -23,10 +23,11 @@ Python | 3.10.0
 
 ## Decisões de Projeto
 
-Os scripts foram desenvolvidos orientados a objeto, ou seja, cada objeto possui um componente script.
+Os scripts foram desenvolvidos orientados a objeto, ou seja, cada objeto possui um ou mais scripts associados.
 
 ### Saturn
 
-
+#### Planet
+#### Ring
 
 ### Moon
