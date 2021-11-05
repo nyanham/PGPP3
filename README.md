@@ -1,6 +1,6 @@
 # Processamento Gráfico
 
-Repositório para o Projeto Prática da disciplina de Processamento Gráfico
+Repositório para o Projeto Prático da disciplina de Processamento Gráfico
 
 ## Preview
 
@@ -44,3 +44,8 @@ conhecimentos sobre criação e renderização de objetos de forma procedural.
 ### Moon
 
 O Moon.cs é reponsável por posicionar, escalonar e rotacionar o objeto Saturn na cena.
+
+##Autores
+
+Guilherme Henrique Rodrigues RA: 743544
+Rafael Jyo Kondo             RA: 743589
