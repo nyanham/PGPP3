@@ -34,7 +34,13 @@ Os scripts foram desenvolvidos orientados a objeto, ou seja, cada objeto possui 
 
 ### Saturn
 
-#### Planet
+O Saturn.cs é reponsável por posicionar, escalonar e rotacionar o objeto Saturn na cena.
+
 #### Ring
 
+O SaturnRing.cs é reponsável por criar os anéis de saturno de forma procedural. O script foi desenvolvido junto com um tutorial, com a intenção de adquirir 
+conhecimentos sobre criação e renderização de objetos de forma procedural.
+
 ### Moon
+
+O Moon.cs é reponsável por posicionar, escalonar e rotacionar o objeto Saturn na cena.
