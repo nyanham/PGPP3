@@ -47,5 +47,5 @@ O Moon.cs é reponsável por posicionar, escalonar e rotacionar o objeto Saturn 
 
 ##Autores
 
-Guilherme Henrique Rodrigues RA: 743544
-Rafael Jyo Kondo             RA: 743589
+- Guilherme Henrique Rodrigues  RA: 743544
+- Rafael Jyo Kondo              RA: 743589
