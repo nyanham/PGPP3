@@ -6,14 +6,20 @@ Repositório para o Projeto Prática da disciplina de Processamento Gráfico
 
 ## Guia para execução do projeto
 
-Para executar esse projeto, será necessário ter o [Python(3.x)](https://www.python.org/downloads/)
+Para executar esse projeto, será necessário ter um servidor web
 
 Dentro da pasta build deve-se rodar o comando:
 ```bash
+# Se a versão do Python for 3.X
 python3 -m http.server
+
+# Se a versão do Python for 2.X
+python -m SimpleHTTPServer
 ```
+
 Isso deverá criar um servidor web local que irá rodar na porta 8000 por padrão. 
-Para visualizar o projeto basta acessar o Cepheus(https://localhost:8000)
+
+Para visualizar o projeto basta acessar o [Cepheus](https://localhost:8000)
 
 
 Versões usadas durante desenvolvimento:
