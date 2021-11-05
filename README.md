@@ -45,7 +45,7 @@ conhecimentos sobre criação e renderização de objetos de forma procedural.
 
 O Moon.cs é reponsável por posicionar, escalonar e rotacionar o objeto Saturn na cena.
 
-##Autores
+## Autores
 
 - Guilherme Henrique Rodrigues  RA: 743544
 - Rafael Jyo Kondo              RA: 743589
