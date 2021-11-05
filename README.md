@@ -2,7 +2,7 @@
 
 Repositório para o Projeto Prática da disciplina de Processamento Gráfico
 
-##Preview
+## Preview
 
 ## Guia para execução do projeto
 
@@ -19,7 +19,9 @@ Para visualizar o projeto basta acessar o Cepheus(https://localhost:8000)
 Versões usadas durante desenvolvimento:
 Programa/pacote | Versão
 --------- | ------
+Unity | 2020.3.20f1
 Python | 3.10.0
+
 
 ## Decisões de Projeto
 
