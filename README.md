@@ -43,7 +43,7 @@ conhecimentos sobre criação e renderização de objetos de forma procedural.
 
 ### Moon
 
-O Moon.cs é reponsável por posicionar, escalonar e rotacionar o objeto Saturn na cena.
+O Moon.cs é reponsável por posicionar, escalonar e rotacionar o objeto Moon na cena.
 
 ## Autores
 
