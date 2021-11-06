@@ -8,6 +8,7 @@ Repositório para o Projeto Prático da disciplina de Processamento Gráfico
 
 Para executar esse projeto, será necessário ter um servidor web
 
+Umas das formas para construir um servidor web é usando python, para isso deve-se seguir as instruções abaixo.
 Dentro da pasta build deve-se rodar o comando:
 ```bash
 # Se a versão do Python for 3.X
@@ -18,7 +19,7 @@ python -m SimpleHTTPServer
 ```
 
 Isso deverá criar um servidor web local que irá rodar na porta 8000 por padrão. 
-Após rodar o servidor, para visualizar o projeto basta acessar o [Cepheus](https://localhost:8000)
+Após rodar o servidor, para visualizar o projeto basta acessar o localhost na porta 8000 - [Cepheus](https://localhost:8000)
 
 
 Versões usadas durante desenvolvimento:
