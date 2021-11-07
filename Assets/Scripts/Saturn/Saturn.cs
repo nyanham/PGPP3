@@ -6,7 +6,7 @@ public class Saturn : MonoBehaviour
 {
     Vector3 position = new Vector3(1,0,5);
     Vector3 rotation = new Vector3(-20,0,10);
-    Vector3 scale = new Vector3(2,2,2);
+    Vector3 scale = new Vector3(3,3,3);
     // Start is called before the first frame update
     void Start()
     {
