@@ -15,7 +15,7 @@ Cepheus é uma visualização do planeta saturno e uma das suas maiores luas Tit
 Para executar esse projeto, será necessário ter um servidor web.
 
 Umas das formas para construir um servidor web, é usando python, para isso deve-se seguir as instruções abaixo.</br>
-Dentro da pasta build deve-se rodar o comando:
+Dentro da pasta Example deve-se rodar o comando:
 ```bash
 # Se a versão do Python for 3.X
 python3 -m http.server
