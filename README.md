@@ -4,6 +4,8 @@ Repositório para o Projeto Prático da disciplina de Processamento Gráfico
 
 ## Preview
 
+![Preview](.github/Assets/Images/preview.png)
+
 ## Cepheus
 
 Cepheus é uma visualização do planeta saturno e uma das suas maiores luas Titan.
