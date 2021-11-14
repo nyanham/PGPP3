@@ -618,7 +618,7 @@ MonoBehaviour:
     yAxis: 3
   orbitProgress: 0
   orbitPeriod: 3
-  orbitActive: 0
+  orbitActive: 1
 --- !u!1 &1079858611
 GameObject:
   m_ObjectHideFlags: 0
@@ -810,4 +810,4 @@ MonoBehaviour:
     yAxis: 15
   orbitProgress: 0
   orbitPeriod: 15
-  orbitActive: 0
+  orbitActive: 1
