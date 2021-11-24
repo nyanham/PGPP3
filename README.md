@@ -69,6 +69,12 @@ Para uma representação gráfica temos a seguinte imagem:
 
 ## KeyMap
 
+Tecla | Ação
+--------- | ------
+1 | Alterna para câmera 1
+2 | Alterna para câmera 2
+W, A, S, D | Moviemnta o sol nas direções cima, esquerda, baixo e direita
+
 ## Autores
 
 - Guilherme Henrique Rodrigues  RA: 743544
