@@ -4,7 +4,8 @@ Repositório para o Projeto Prático da disciplina de Processamento Gráfico
 
 ## Preview
 
-![Preview](Assets/Images/preview.png)
+![Preview_2](Assets/Images/preview_2.png)
+![Preview_3](Assets/Images/preview_3.png)
 
 ## Cepheus
 
