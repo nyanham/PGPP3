@@ -73,7 +73,7 @@ Tecla | Ação
 --------- | ------
 1 | Alterna para câmera 1
 2 | Alterna para câmera 2
-W, A, S, D | Movimenta o sol nas direções cima, esquerda, baixo e direita
+W, A, S, D | Movimenta o sol nas direções cima, esquerda, baixo e direita 
 
 ## Autores
 
