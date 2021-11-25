@@ -57,9 +57,9 @@ O Moon.cs é reponsável por posicionar, escalonar e rotacionar o objeto Moon na
 
 Para realizar o movimento como uma lembrança do movimento real realizado por saturno, foi adicionado mais um objeto 3D para a representação do Sol. Após o acréscimo foi desenvolvido dois scripts 'Ellipse' e 'OrbitMotion'.
 
-Ellipse é uma classe responsável por fazer a descrição da elipse que irá descrever o movimento dos objetos. Para isso, Ellipse recebe dois parâmetros que reapresentam os eixos focais da elipse. E com eles descobrem os pontos pertencentes a elipse para a descrição do movimento.
+Ellipse é uma classe responsável por fazer a descrição da elipse que irá descrever o movimento dos objetos. Para isso, Ellipse recebe dois parâmetros que reapresentam os eixos focais da elipse. E com eles, descobrem-se os pontos pertencentes a elipse para a descrição do movimento.
 
-OrbitMotion é o algoritmo responsável pelo movimento, com o auxílio da classe Ellipse, OrbitMotion controla a animação do movimento em forma de elipse em volta do sol ou de outro objeto, utiliza de corrotina para uma maior similaridade com a realidade.
+OrbitMotion é o algoritmo responsável pelo movimento, com o auxílio da classe Ellipse, OrbitMotion controla a animação do movimento em forma de elipse em volta do sol ou de outro objeto, utiliza de corrotina para uma maior similaridade com a realidade. A orbita é definida pela a hierarquia do projeto.
 
 Os objetos que possuem movimento são Saturno realizando o movimento de translação em volta do Sol e Titan (Moon) o movimento de translação em volta de Saturno. Como consequência do movimento de Saturno, Titan também se move em volta do Sol, mesmo que esse movimento não esteja especificado. 
 
